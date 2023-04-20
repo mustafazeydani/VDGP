@@ -1,5 +1,5 @@
 # TaskMate
-TaskMate is a web application built with React.js, Node.js, and Express.js for managing individual projects. The application provides an intuitive interface for creating, updating, and deleting projects and tasks. Users can also filter and sort them by various criteria, add projects to favourites and mark tasks as done.
+TaskMate is a web application built with React.js, Node.js, and Express.js for managing individual projects. The application provides an intuitive interface for creating, updating, and deleting projects and tasks. Users can also filter and sort them by various criteria, schedule deadlines and mark tasks as done.
 
 ## Database Scheme
 ![scheme](./assets/diagrams/scheme.png)
